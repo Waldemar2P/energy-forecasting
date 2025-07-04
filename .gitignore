@@ -1,0 +1,19 @@
+# Ignore input data
+data/
+
+# Ignore models
+models/
+
+# Temporary files and Python's cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env
+
+# System/editor files
+.DS_Store
+.vscode/
+.idea/
